@@ -1,4 +1,5 @@
 # Sebastian Solis
+
 # People Analytics Portfolio
 
 Welcome!
@@ -7,16 +8,17 @@ I'm an HR professional completing the NYU School of Professional Studies People 
 
 This portfolio contains projects demonstrating my skills in:
 
-People Analytics
-HR Metrics
-Workforce Planning
-Data Visualization
-SQL
-Excel
-R
-Python
-Dashboard Development
-# Technical Skills
+-People Analytics
+-HR Metrics
+-Workforce Planning
+-Data Visualization
+-SQL
+-Excel
+-R
+-Python
+-Dashboard Development
+
+## Technical Skills
 Excel
 SQL
 R
