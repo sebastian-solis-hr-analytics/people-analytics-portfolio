@@ -1,4 +1,3 @@
-# people-analytics-portfolio
 # Sebastian Solis
 # People Analytics Portfolio
 
