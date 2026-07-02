@@ -8,17 +8,18 @@ I'm an HR professional completing the NYU School of Professional Studies People 
 
 This portfolio contains projects demonstrating my skills in:
 
--People Analytics
--HR Metrics
--Workforce Planning
--Data Visualization
--SQL
--Excel
--R
--Python
--Dashboard Development
+People Analytics
+HR Metrics
+Workforce Planning
+Data Visualization
+SQL
+Excel
+R
+Python
+Dashboard Development
 
 ## Technical Skills
+
 Excel
 SQL
 R
@@ -29,7 +30,9 @@ HR Analytics
 Data Cleaning
 Data Visualization
 Statistical Analysis
+
 # Featured Projects
+
 Employee Retention Analysis
 
 Analyzed factors influencing employee turnover using R.
